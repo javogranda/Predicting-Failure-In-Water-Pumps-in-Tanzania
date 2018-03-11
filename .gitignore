@@ -100,3 +100,4 @@ ENV/
 # mypy
 .mypy_cache/
 .gitignore
+.DS_Store
